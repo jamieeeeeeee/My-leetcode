@@ -10,16 +10,16 @@ This is my leetcode !
 * Contains Duplicate (0619)
 * Product of Array Except Self (0619)
 * Maximum Subarray (0619)
-* Maximum Product Subarray
+* Maximum Product Subarray (0620)
 * Find Minimum in Rotated Sorted Array
 * Search in Rotated Sorted Array
 * 3 Sum
 * Container With Most Water
 ### Binary
 * Sum of Two Integers
-* Number of 1 Bits
-* Counting Bits
-* Missing Number
+* Number of 1 Bits (0621)
+* Counting Bits (0621)
+* Missing Number (0621)
 * Reverse Bits
 ### Dynamic Programming
 * Climbing Stairs
